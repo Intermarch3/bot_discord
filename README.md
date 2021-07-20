@@ -11,4 +11,9 @@ Voici mon bot discord personnel fait en javascript 🤖
 `npm i moment`
 `npm i discord.js`
 
-#### 3) 
+#### 3) Remplire dans config.json tout les token demandé 
+
+#### 4) Sur le terminal du projet, taper la ligne suivante :
+`node index`
+
+##### Et voilà, le bot est en ligne 
