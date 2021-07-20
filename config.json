@@ -1,30 +1,19 @@
 {
-    "token": "ODM2NTEwNjAzMDU2Nzc1MjA5.YIfDNQ.Eh2zONzrSzLFEf8Mgz_dl8en2RY",
+    "token": "",        // mettre le token de votre serveur entre les guillemets
     "prefix": "!",
     "gretting": {
-        "channel" : "836519164490285086",
-        "role": "836521231343157248"
+        "channel" : "",
+        "role": ""
     },
-    "reactionRole": {
-        "836546520568168468": {
+    "reactionRole": {               // permet d'assigner un role a partir d'une réaction de commentaire
+        "": {     // token du commentaire
             "emojis": [{
-                "name": "👍",
-                "roles": "836521231343157248"
+                "name": "👍",       // nom de la réaction
+                "roles": ""         // mettre le token du role dans les guillemets
             }]
         },
-        "836612656366223420": {
-            "removable": true,
-            "emoji": [{
-                "name": "🎮",
-                "roles": "836613545922920448"
-            }, {
-            "name": "💻",
-            "roles": "836613717872345139"
-            }]
-        }
-    },
-    "cooldown": {
-        "836511933938663458": 1e3,
-        "836645388492603422": 1e3
+    "cooldown": {       // permet de mettre un cooldown entre les message du chat (1e3 = 1s de cooldown)
+        "": 1e3,        // mettre le token de votre salon dans les guillemets
+        "": 1e3         // mettre le token de votre salon dans les guillemets
     }
 }
