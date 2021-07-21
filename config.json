@@ -6,7 +6,7 @@
         "role": ""
     },
     "reactionRole": {               // permet d'assigner un role a partir d'une réaction de commentaire
-        "": {     // token du commentaire
+        "": {                       // token du commentaire
             "emojis": [{
                 "name": "👍",       // nom de la réaction
                 "roles": ""         // mettre le token du role dans les guillemets
@@ -14,6 +14,6 @@
         },
     "cooldown": {       // permet de mettre un cooldown entre les message du chat (1e3 = 1s de cooldown)
         "": 1e3,        // mettre le token de votre salon dans les guillemets
-        "": 1e3         // mettre le token de votre salon dans les guillemets
+        "": 1e3         // meme chose ici
     }
 }
