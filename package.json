@@ -13,7 +13,6 @@
     "fs": "0.0.1-security",
     "humanize-duration": "^3.25.2",
     "moment": "^2.29.1",
-    "node-ecole-directe": "^1.3.4",
     "node-fetch": "^2.6.1",
     "parse-duration": "^1.0.0"
   }
