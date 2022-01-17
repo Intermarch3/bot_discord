@@ -1,21 +1,21 @@
-# salut 👋
+# Hello 👋
 
-Voici mon bot discord personnel fait en javascript 🤖
+Here is my personal discord bot made in javascript 🤖
 
-## installation 
+## Launch
 
-#### 1) Téléchargé le projet
+#### 1) Download the project
 
-#### 2) Coller les lignes de code suivante dans le terminal a partir du dossier du projet
+#### 2) Paste the following lines of code in the terminal from the project folder
 
 #### `npm i moment`
 #### `npm i discord.js`
 
-#### 3) Remplire dans config.json tout les token demandé et ajouté le bot sur votre serveur discord
+#### 3) Fill in config.json all the requested tokens and add the bot to your discord server
 
-#### 4) Sur le terminal du projet, taper la ligne suivante :
+#### 4) On the project terminal, type the following line :
 #### `node index`
 
-##### Et voilà, le bot est en ligne 🎉
+##### And that's it, the bot is online 🎉
 
-### ⚠ Le projet n'est pas terminé et il est possible qu'il y ai des bug, Si vous en trouvé, merci de me contacter avec les réseaux écrit sur mon profil.
+### ⚠ The project is not finished and it is possible that there are bugs, If you find any, please contact me with the networks written on my profile.
